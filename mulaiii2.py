@@ -27,9 +27,9 @@ print (anak)
 print ('\n sapa anak')
 print (f'hai {anak[3]} !')
 print ('\nsapa semua anak')
-for a in anak :
-    print (f'hai {a} !')
+for b in anak :
+    print (f'hai {b} !')
 print ('\n sapa semua anak cara ribet')
-for a in range (0, len (anak)) :
-    print (f'{a+1}.hai {anak [a]}')
+for b in range (0, len (anak)) :
+    print (f'{b+1}.hai {anak [b]}')
 
